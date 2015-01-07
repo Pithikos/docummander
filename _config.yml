@@ -1,6 +1,6 @@
 # Site settings
-title: "Mbed SDK"
-github_project-name:  "mbed-sdk"
+title: "Documandi!"
+github_project-name:  "docummander"
 github_username:  Pithikos
 email: manossef@gmail.com
 baseurl: "" #baseurl: "http://pithikos.github.io/mbed-sdk"
