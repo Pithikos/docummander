@@ -1,22 +1,23 @@
 ## What is dis?
-This is a Jekyll template that turns Jekyll into a documentation
-platform for your projects. You can try it out here.
+Just [try it out](http://pithikos.github.io/docummander) and find for youself.
 
-The things this template does are:
+How this works is simply by putting together Jekyll and the Github infrastructure to provide
+a platform to start documenting easily and fast.
 
-  * Edit/add pages directly from the browser
-  * Every page is a simple markdown page
-  * Runs natively on Github pages
+The big points are these:
+
+  * ** Edit pages on the browser** - edit and add pages directly from the browser
+  * ** Markdown** - every page is simple markdown with zero boilterplate
+  * ** Runs on Github pages ** - that means free and without learning curve
+  * ** Backup ** - Since the documentation is a git project, if you make a mistake you can always go back
 
 
-## Install on existing project
+## Documenting an existing project
 
   1. Make a branch `gh-pages` in your project
   2. Copy the files from this project in there
-  3. 
+  3. Go to <b>http://*username*.github.io/*repository*</b>
 
-## Install on new project (or as standalone)
+## Documenting as a stand-alone
 
-  1. Create a new project on github
-  2. Make a branch `gh-pages` in your project
-  3. Copy the files from this project in there
+Make a new project to hold your documentation and then do the steps as above.
