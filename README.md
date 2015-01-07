@@ -7,8 +7,8 @@ a platform to start documenting easily and fast.
 The big points are these:
 
   * **Edit pages on the browser** - edit and add pages directly from the browser
-  * **Markdown** - every page is simple markdown with zero boilterplate
-  * **Runs on Github pages ** - that means free and without learning curve
+  * **No boilerplate** - every page is simple markdown with nothing more
+  * **Github technologies** - that means free and without learning curve
   * **Backup** - Since the documentation is a git project, if you make a mistake you can always go back
 
 
