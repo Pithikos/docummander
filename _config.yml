@@ -1,0 +1,24 @@
+# Site settings
+title: "Mbed SDK"
+github_project-name:  "mbed-sdk"
+github_username:  Pithikos
+email: manossef@gmail.com
+baseurl: "" #baseurl: "http://pithikos.github.io/mbed-sdk"
+
+# Build settings
+markdown: kramdown
+permalink: /:title
+excerpt_separator: "\n" # Used for indexing
+
+# Default front matter for all posts
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "post"
+      title: "no-title"
+
+# Configuration for github files
+filenames:
+  new_file: "tempname"

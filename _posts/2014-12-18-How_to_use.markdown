@@ -1,0 +1,30 @@
+# How to use (updated2)
+
+You only need to configure a few things from `_config.yml` to get things
+working. See below:
+
+| Variable                |                                                 |
+|-------------------------|-------------------------------------------------|
+| **github_project-name** | Set to the name of your project name on github  |
+| **github_username**     | Set to the username to whom the project belongs |
+  
+
+## Content
+All content is saved in _posts. The content there can be organized with
+folders. Markdown files that are in the same folder are treated as belonging
+to the same documentation snippet and accordingly the navigation panel
+will be populated.
+
+
+## Adding collaborators
+Editing pages is the same as editing source code of a project on Github. For that reason
+whenever a random user clicks on Edit, a message to fork the project will be given. If the
+user forks the project, then he can pull a request to merge.
+
+If you want specific users to be able and freely edit content without this process,
+then you simply have to add these users as collaborators to the project.
+
+
+## What's next?
+You can start by going to the root and start adding content. You can safely
+delete this file.

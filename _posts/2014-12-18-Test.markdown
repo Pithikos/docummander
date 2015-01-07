@@ -1,0 +1,25 @@
+# This is a test
+
+This is a simple Jekyll template that makes it easy to use Jekyll on
+Github pages as a documentation platform resembling wiki but with more
+control.
+
+  * Uses Github's online editor to edit and add pages
+  * Uses Github's revision control for the pages
+  * Let's users to fork, do changes and make pull requests
+  * You can use Github's settings to easily administer access
+
+You can use everything a normal [Jekyll](http://jekyllrb.com/docs/home) project can.
+
+## Install
+  
+  1. Make a github web page
+  2. Click here.
+
+## Adding collaborators
+Editing pages is the same as editing source code of a project on Github. For that reason
+whenever a random user clicks on Edit, a message to fork the project will be given. If the
+user forks the project, then he can pull a request to merge.
+
+If you want specific users to be able and freely edit content without this process,
+then you simply have to add these users as collaborators to the project.
