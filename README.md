@@ -1,15 +1,15 @@
 ## What is dis?
-Just [try it out](http://pithikos.github.io/docummander) and find for youself.
+Just [try it out and find for youself](http://pithikos.github.io/docummander).
 
 How this works is simply by putting together Jekyll and the Github infrastructure to provide
 a platform to start documenting easily and fast.
 
 The big points are these:
 
-  * ** Edit pages on the browser** - edit and add pages directly from the browser
-  * ** Markdown** - every page is simple markdown with zero boilterplate
-  * ** Runs on Github pages ** - that means free and without learning curve
-  * ** Backup ** - Since the documentation is a git project, if you make a mistake you can always go back
+  * **Edit pages on the browser** - edit and add pages directly from the browser
+  * **Markdown** - every page is simple markdown with zero boilterplate
+  * **Runs on Github pages ** - that means free and without learning curve
+  * **Backup** - Since the documentation is a git project, if you make a mistake you can always go back
 
 
 ## Documenting an existing project
